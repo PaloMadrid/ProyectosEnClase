@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Plumi\\Desktop\\Curso programacion\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E32589-EFB4-4B6D-8865-0FC81FA8F48B}|testeo_banco\\testeo_banco.csproj|c:\\users\\plumi\\desktop\\curso programacion\\banco\\testeo_banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E32589-EFB4-4B6D-8865-0FC81FA8F48B}|testeo_banco\\testeo_banco.csproj|solutionrelative:testeo_banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAB140D-D8D4-48CE-8966-646CBC8B0315}|Biblioteca_de_clases\\Biblioteca_de_clases.csproj|C:\\Users\\Plumi\\Desktop\\Curso programacion\\Banco\\biblioteca_de_clases\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAB140D-D8D4-48CE-8966-646CBC8B0315}|Biblioteca_de_clases\\Biblioteca_de_clases.csproj|solutionrelative:biblioteca_de_clases\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\Curso programacion\\Banco\\Biblioteca_de_clases\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Biblioteca_de_clases\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\Curso programacion\\Banco\\Biblioteca_de_clases\\Cuenta.cs",
+              "RelativeToolTip": "Biblioteca_de_clases\\Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:22:56.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Plumi\\Desktop\\Curso programacion\\Banco\\testeo_banco\\Program.cs",
+              "RelativeDocumentMoniker": "testeo_banco\\Program.cs",
+              "ToolTip": "C:\\Users\\Plumi\\Desktop\\Curso programacion\\Banco\\testeo_banco\\Program.cs",
+              "RelativeToolTip": "testeo_banco\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:22:38.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

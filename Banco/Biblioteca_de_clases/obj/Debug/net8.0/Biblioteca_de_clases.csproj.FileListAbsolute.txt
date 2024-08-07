@@ -1,0 +1,23 @@
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\bin\Debug\net8.0\Biblioteca_de_clases.deps.json
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\bin\Debug\net8.0\Biblioteca_de_clases.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\bin\Debug\net8.0\Biblioteca_de_clases.pdb
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.sourcelink.json
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\obj\Debug\net8.0\refint\Biblioteca_de_clases.dll
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.pdb
+C:\Users\Plumi\Desktop\ejercicios_cfp6\Banco\Biblioteca_de_clases\obj\Debug\net8.0\ref\Biblioteca_de_clases.dll
+C:\Users\Plumi\Desktop\Curso programacion\Banco\Biblioteca_de_clases\bin\Debug\net8.0\Biblioteca_de_clases.deps.json
+C:\Users\Plumi\Desktop\Curso programacion\Banco\Biblioteca_de_clases\bin\Debug\net8.0\Biblioteca_de_clases.dll
+C:\Users\Plumi\Desktop\Curso programacion\Banco\Biblioteca_de_clases\bin\Debug\net8.0\Biblioteca_de_clases.pdb
+C:\Users\Plumi\Desktop\Curso programacion\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plumi\Desktop\Curso programacion\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.AssemblyInfoInputs.cache
+C:\Users\Plumi\Desktop\Curso programacion\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.AssemblyInfo.cs
+C:\Users\Plumi\Desktop\Curso programacion\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.csproj.CoreCompileInputs.cache
+C:\Users\Plumi\Desktop\Curso programacion\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.dll
+C:\Users\Plumi\Desktop\Curso programacion\Banco\Biblioteca_de_clases\obj\Debug\net8.0\refint\Biblioteca_de_clases.dll
+C:\Users\Plumi\Desktop\Curso programacion\Banco\Biblioteca_de_clases\obj\Debug\net8.0\Biblioteca_de_clases.pdb
+C:\Users\Plumi\Desktop\Curso programacion\Banco\Biblioteca_de_clases\obj\Debug\net8.0\ref\Biblioteca_de_clases.dll
